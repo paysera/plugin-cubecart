@@ -1,0 +1,9 @@
+Diegimas
+
+1. "modules" direktorija imeskite i saknini Cubecart kataloga.
+2. Administratoriaus aplinkoje eikite i Modules->Payment Gateways->Paysera.com.
+3. Ijunkite moduli ir iveskite visus reikalingus duomenis.
+
+Kontaktai
+
+Kilus klausimams prasome kreiptis i pagalba@mokejimai.lt

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<installer version="1.0">
+  <info>
+	<uid>support@paysera.com</uid>
+	<type>gateway</type>
+	<name><![CDATA[Paysera]]></name>
+	<description><![CDATA[Paysera Payment Gateway]]></description>
+	<version>1.0.0</version>
+	<minVersion>5.0.0a</minVersion>
+	<maxVersion>5.0.*</maxVersion>
+	<creator><![CDATA[EVP International]]></creator>
+	<homepage><![CDATA[http://www.paysera.com]]></homepage>
+	<block>false</block>
+  </info>
+</installer>
